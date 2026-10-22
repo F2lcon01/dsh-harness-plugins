@@ -1,0 +1,87 @@
+{
+  "name": "dsh-custom-plugins-market",
+  "description": "Official and community trusted extension index for DeepSeek Harness",
+  "timestamp": 1792642500000,
+  "plugins": [
+    {
+      "name": "dsh-plugin-market",
+      "version": "1.3.0",
+      "description": "Plugin market foundation with a standalone Web configuration editor for DeepSeek Harness.",
+      "author": "OpenCharts Developer",
+      "stars": 19850,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-context",
+      "version": "2.1.4",
+      "description": "Visual dashboard system for runtime context evolution and precise window token utilization analysis.",
+      "author": "DeepSeek Community",
+      "stars": 14200,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-browser",
+      "version": "1.0.8",
+      "description": "Secure automated sandbox browser control agent for Chrome and Firefox integration.",
+      "author": "OpenCharts Developer",
+      "stars": 12900,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-memory-evolve",
+      "version": "1.5.2",
+      "description": "Advanced long-term vector memory layer for multi-session agent tracking and capability retention.",
+      "author": "DeepSeek AI Lab",
+      "stars": 18450,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-agent-teams",
+      "version": "3.0.1",
+      "description": "Enables multi-agent subagent orchestration, collaborative task boards, and shared execution workspaces.",
+      "author": "DeepSeek Harness Core",
+      "stars": 19900,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-modlens",
+      "version": "1.1.0",
+      "description": "Comprehensive diagnostics suite for local backend validation and active command tracking.",
+      "author": "ModLens Dev Team",
+      "stars": 9800,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-web-billing",
+      "version": "2.0.0",
+      "description": "Granular token cost tracking, API quota limits manager, and continuous budget guardrails alert handler.",
+      "author": "OpenBB Finance Tools",
+      "stars": 8750,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-vision-toolkit",
+      "version": "1.4.0",
+      "description": "High-accuracy image object layout auditing and multimodal user prompt coordinate injection helper.",
+      "author": "DeepSeek AI Lab",
+      "stars": 16300,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-lanmode",
+      "version": "1.0.2",
+      "description": "Offline isolated secure environment fallback router preventing external traffic leaks during sensitive executions.",
+      "author": "Hermes Sandbox Org",
+      "stars": 11200,
+      "trusted": true
+    },
+    {
+      "name": "dsh-plugin-tokenledger",
+      "version": "1.1.5",
+      "description": "Unified dashboard logging raw pricing and metrics history across custom inference networks.",
+      "author": "QuantConnect Foundation",
+      "stars": 7900,
+      "trusted": true
+    }
+  ]
+}
